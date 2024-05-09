@@ -14,9 +14,9 @@ This allowed me to be able to create an if statement which essentially checked i
 
 ## Technologies Used
 
-\*Javascript for functionality.
+*Javascript for functionality.
 
-##Loom Video Link 
+## Loom Video Link 
 
 https://www.loom.com/share/4deaeea191f243cb9d8a4dc869a66cad?sid=e3f3c160-e21f-400a-938a-9194acc88ec2
 
